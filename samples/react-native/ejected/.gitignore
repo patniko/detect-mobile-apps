@@ -1,0 +1,9 @@
+App.js
+App.js.map
+app/**/*.js
+app/**/*.js.map
+/config/router.js
+/config/router.js.map
+/.expo/packager-info.json
+/.vscode/.react/crna-entry.bundle
+/.vscode/.react/crna-entry.map

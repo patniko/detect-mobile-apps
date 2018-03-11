@@ -1,0 +1,9 @@
+{
+  "name": "quickshift",
+  "displayName": "QuickShift",
+  "expo": {
+    "sdkVersion": "22.0.0",
+    "slug": "vsts-quickshift",
+    "name": "vsts-quickshift"
+  }
+}

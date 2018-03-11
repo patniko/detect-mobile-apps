@@ -1,17 +1,14 @@
 #!/usr/local/bin/ruby -w
 
 require 'optparse'
-require_relative 'detection/processor'
+require_relative 'scanner'
 
 options = {}
 OptionParser.new do |parser|
   parser.on("-f", "--folder LIBRARY",
             "Folder you would like to scan") do |folder|
-    puts "Scanning #{folder} for mobile projects..."
 
-    processor.scan(folder)
+    scanner = Scanner.new folder
+    scanner.scan
   end
 end.parse!
-
-
-

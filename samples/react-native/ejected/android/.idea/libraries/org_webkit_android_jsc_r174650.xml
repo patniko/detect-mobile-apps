@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.webkit:android-jsc-r174650">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/2cb17fc1b914d0cf859ecc11def88a2fe67e0413/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/2cb17fc1b914d0cf859ecc11def88a2fe67e0413/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
