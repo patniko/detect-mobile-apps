@@ -7,16 +7,20 @@ require_relative 'detection/android'
 class Scanner
   include Logging
 
-  def initialize(folder)
-    @path = folder
+  def initialize(path)
+    @path = path
+    @scanners = [IOS, Android]
   end
 
   def scan
+    results = []
 
-    logger.info "Scanning #{@path}"
+    logger.debug "Scanning #{@path}"
+    @scanners.each do |scanner|
+      projects = scanner.scan(@path)
+      results.push(*projects)
+    end
 
-    IOS.scan @path
-    Android.scan @path
-    
+    return results
   end
 end

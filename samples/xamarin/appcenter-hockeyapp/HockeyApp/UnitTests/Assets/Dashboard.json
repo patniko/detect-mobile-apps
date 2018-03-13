@@ -1,0 +1,1102 @@
+﻿[
+  {
+    "id": "baafa205-3ffa-4efe-9085-9f98df96761a",
+    "app_secret": "eaddf611-d1d9-49e3-8d2c-fbbc8034026c",
+    "description": "iOS App to help the X-Market Staffing and Opportunity process",
+    "display_name": "Tetris",
+    "name": "tetris",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "mobile-center",
+    "icon_url": null,
+    "owner": {
+      "id": "72e2d291-47df-4795-b5ed-e30c91a4b82e",
+      "avatar_url": null,
+      "display_name": "Jon Allegre",
+      "email": "jona@slalom.com",
+      "name": "jona-slalom-xmarket",
+      "type": "user"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "10dbc2a3-68aa-4ec0-8a42-826a29e36eae",
+    "app_secret": "25b54ac3-7588-4681-ae48-ac504b327233",
+    "description": "",
+    "display_name": "FakeApp",
+    "name": "FakeApp",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "mobile-center",
+    "icon_url": null,
+    "owner": {
+      "id": "72e2d291-47df-4795-b5ed-e30c91a4b82e",
+      "avatar_url": null,
+      "display_name": "Jon Allegre",
+      "email": "jona@slalom.com",
+      "name": "jona-slalom-xmarket",
+      "type": "user"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "22402cfd-b17d-420d-8e2e-76bc4c13b1cb",
+    "app_secret": "13d9508f-241a-4b09-a314-6f4922f56636",
+    "description": "Android version of the HockeyApp Tester App.",
+    "display_name": "AC-  Tester App - Android (DEV)",
+    "name": "AC-Tester-App-Android",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "mobile-center",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/525/206/original/72eaf2ea92f4be306549a3d353d93122.png",
+    "owner": {
+      "id": "cdbb765b-a1e8-4a78-bf22-befbc10b6350",
+      "avatar_url": null,
+      "display_name": "HockeyApp Tester Apps",
+      "email": null,
+      "name": "App-Center-Tester-Apps",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "bd9a7c6b-f472-4419-b870-0fe60664b773",
+    "app_secret": "52bd70b5-c6a1-4102-ad79-ec01512872b4",
+    "description": "iOS Version of the HockeyApp Tester App.",
+    "display_name": "AC-  Tester App - iOS (DEV)",
+    "name": "AC-Tester-App-iOS",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "mobile-center",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/525/212/original/53fe9897209eb8bd160ffe9b19ca0605.png",
+    "owner": {
+      "id": "cdbb765b-a1e8-4a78-bf22-befbc10b6350",
+      "avatar_url": null,
+      "display_name": "HockeyApp Tester Apps",
+      "email": null,
+      "name": "App-Center-Tester-Apps",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "d5691ffe-3cea-4fdc-9fa2-6a46ec21bdd3",
+    "app_secret": "560a2f18-5da9-4f8c-9fd3-af2e643d9b96",
+    "description": "UWP version of the HockeyApp Tester App.",
+    "display_name": "AC-  Tester App - UWP (DEV)",
+    "name": "AC-Tester-App-UWP",
+    "os": "Windows",
+    "platform": "UWP",
+    "origin": "mobile-center",
+    "icon_url": null,
+    "owner": {
+      "id": "cdbb765b-a1e8-4a78-bf22-befbc10b6350",
+      "avatar_url": null,
+      "display_name": "HockeyApp Tester Apps",
+      "email": null,
+      "name": "App-Center-Tester-Apps",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "dc91492d-a6fe-46a0-a0ed-62020816e498",
+    "app_secret": "59d9f645-6865-5df1-6858-9bd945d9789c",
+    "description": null,
+    "display_name": "Legacy Health - Consumer Mobile App",
+    "name": "Legacy-Health-Consumer-Mobile-App",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/064/813/original/3e466bf19b8429b2f8ba012b56ccf586.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "dac34399-4ec5-4670-8c81-f98c2ad86055",
+    "app_secret": "d7fd4847-cc0a-ef6b-34df-ae0c10317aa3",
+    "description": null,
+    "display_name": "Legacy Health - Consumer Mobile App",
+    "name": "Legacy-Health-Consumer-Mobile-App-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/064/817/original/d2b4cc81b806a53490ed679aca5f22f8.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "a1d7c41b-dea7-4d3d-8537-234826e4b552",
+    "app_secret": "7031f4e5-8e6e-43bd-029e-92d41b6cfe27",
+    "description": null,
+    "display_name": "Stuart Weitzman - Clienteling",
+    "name": "Stuart-Weitzman-Clienteling",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/088/126/original/e7e83d2fe9de307c6a7b7dce0aec4fb4.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "71d6d8fa-c8de-4518-9520-a9e7ca4844cb",
+    "app_secret": "81832865-ce07-2995-77c5-f5a1aff71d1a",
+    "description": null,
+    "display_name": "Slalom - Cards",
+    "name": "Slalom-Cards",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/105/716/original/cc6b1776aaaa3b9f8d89e8bf31c98a72.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "5c49528d-ef8a-4eeb-a7ac-becd0693019d",
+    "app_secret": "ba2e54c1-72b5-80a0-e4de-dfc96c12b36a",
+    "description": null,
+    "display_name": "McKesson - OpenSmart",
+    "name": "McKesson-OpenSmart",
+    "os": "iOS",
+    "platform": "Cordova",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/112/594/original/5fb3ed99cb0e2ef75d4ddbd45764c06e.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "662f90b6-8a2f-4135-80ad-23e9911f82b5",
+    "app_secret": "da038a39-90d8-13e5-8fb9-e7be0759f72a",
+    "description": null,
+    "display_name": "Johns Manville - Inspections",
+    "name": "Johns-Manville-Inspections",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/112/954/original/cd18738efba7152291d27bda3a898245.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "ef438cd0-451b-4b91-b8ef-e64cf8ccd995",
+    "app_secret": "0fd6c931-a79e-9779-c58d-8f6c15270d98",
+    "description": null,
+    "display_name": "Slalom - Scheduler",
+    "name": "Slalom-Scheduler",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/117/853/original/049c1b853a8bdde42c7ff0ae91c2c7f5.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "1cde19a3-6500-4f63-9046-45e152974ed0",
+    "app_secret": "4df011bb-e602-3d5b-1c80-e41ff3e22f7a",
+    "description": null,
+    "display_name": "Slalom - Cards",
+    "name": "Slalom-Cards-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/119/373/original/cda0f9fee1d3a6c2fdeed6a275a6f3e4.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "fada39a3-8fb9-4d9f-9d43-88679bcf369b",
+    "app_secret": "18b9d83d-ea37-69ec-5314-a636e2727988",
+    "description": null,
+    "display_name": "Wyndham - Wynspect",
+    "name": "Wyndham-Wynspect",
+    "os": "iOS",
+    "platform": "Cordova",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/127/471/original/7ddc24142c7a6e021e76893d263c7135.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "51195e9d-0405-4285-b2a0-e5f4e10b2c2f",
+    "app_secret": "d00f46e7-76f0-76a5-9ea4-5819e4008668",
+    "description": null,
+    "display_name": "GroupHealth - Mobile",
+    "name": "GroupHealth-Mobile",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/128/652/original/86abc9cc72b771006b9293fc916de081.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "23606a27-6368-4af8-b41c-98a5799681f4",
+    "app_secret": "9f92a176-76ab-57d1-b476-1cb2bac933f1",
+    "description": null,
+    "display_name": "Slalom - MBO Dashboard",
+    "name": "Slalom-MBO-Dashboard",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/138/047/original/5a8b9ffdcc42cce112e7545f7b87a6dd.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "a755c3b9-cb21-45d6-b562-03c6b14b7752",
+    "app_secret": "3602c270-34aa-3b0a-f3cf-3c30bfdd8f37",
+    "description": null,
+    "display_name": "Slalom - MBO Dashboard",
+    "name": "Slalom-MBO-Dashboard-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/138/048/original/3b48f08715ec800c3bd10f560017571f.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "cc2e38b9-f896-41c9-8ba4-728810d8191c",
+    "app_secret": "669875dc-171d-10db-d6e2-2e225873e6df",
+    "description": null,
+    "display_name": "Beyond12 - My Coach Mobile",
+    "name": "Beyond12-My-Coach-Mobile",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/142/833/original/ab6fba8e6577d7d6062bcb1225e6fc18.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "bbacd135-70ec-4bab-ad96-dc1a1630e42c",
+    "app_secret": "f684e7f3-670b-8067-4c1f-cb12c012072b",
+    "description": null,
+    "display_name": "Beyond12 - My Coach Mobile",
+    "name": "Beyond12-My-Coach-Mobile-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/142/834/original/d54137b08512e3fd5e7949cf942b6ce8.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "74d611d2-cb12-48a3-89c2-0e27a06c6a57",
+    "app_secret": "328df34e-0de0-0ab5-95af-364981542d88",
+    "description": null,
+    "display_name": "Wyndham - Property App",
+    "name": "Wyndham-Property-App",
+    "os": "iOS",
+    "platform": "Cordova",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/157/215/original/d8272b01e1158caf2bc4cf21be569251.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "5caa1578-caef-4920-8d15-284602873e0d",
+    "app_secret": "4fb2f3c2-e550-8048-d5ec-80e252e4c026",
+    "description": null,
+    "display_name": "Johns Manville - SmartBinder",
+    "name": "Johns-Manville-SmartBinder",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/178/270/original/02e03603ce20f8b3f9252b6b2c0e1dc9.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "ce975a77-9c6b-4715-916b-6e93ba813cc6",
+    "app_secret": "85229d7c-9d50-f598-ce0a-777708f77d25",
+    "description": null,
+    "display_name": "Slalom - MobileMyTime",
+    "name": "Slalom-MobileMyTime",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/200/641/original/53d88c99bd920d5ef98e2b65e2166165.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "10ecebe7-054a-4c65-b8ad-86306000d082",
+    "app_secret": "f21d2388-ab2c-78ab-d220-5db5f87beb0f",
+    "description": null,
+    "display_name": "Slalom - MobileMyTime ",
+    "name": "Slalom-MobileMyTime-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/200/642/original/91b0302bca54794905ec48cdf043efc7.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "c56cb80b-77c8-4b9b-ab23-7b43e68e3717",
+    "app_secret": "830ed73e-4006-fe99-964c-2cc232973680",
+    "description": null,
+    "display_name": "Ralph Lauren - Clienteling",
+    "name": "Ralph-Lauren-Clienteling",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/206/509/original/d767e434eed4c81a53c3aeeba96b59f5.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "c41c19aa-709a-4a98-a25f-bade715907d8",
+    "app_secret": "eee8bff0-a365-5d4a-e082-9abc9fdf4924",
+    "description": null,
+    "display_name": "Target - Money Spot",
+    "name": "Target-Money-Spot",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/217/610/original/14f7e7f27a7dfecf9f9313bcfff66184.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "48e19e78-f94f-4352-bb95-aee14e6d43d1",
+    "app_secret": "297acf3d-ac0a-4f6a-9457-d6380ada9ed3",
+    "description": null,
+    "display_name": "TMobile-Portal",
+    "name": "TMobile-Portal",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/244/130/original/6a49f6471eb9f7f7aa42e1b33a97b0f0.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "450745a4-154e-4455-96bc-4a65a490d09b",
+    "app_secret": "b39188cb-e85d-4425-a82b-2f996ee906c7",
+    "description": null,
+    "display_name": "TMobile-Portal",
+    "name": "TMobile-Portal-01",
+    "os": "Android",
+    "platform": "Java",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/245/116/original/c0f022a4a96d515cee7121cfe5c58c3c.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "cea51e74-c474-437d-89dd-762b18b9fa17",
+    "app_secret": "cc6c9965-a821-4d73-8c99-045c6f25eae9",
+    "description": null,
+    "display_name": "SlalomEverywhere Android",
+    "name": "SlalomEverywhere-Android",
+    "os": "Android",
+    "platform": "Java",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/266/511/original/06d1f350c89c0a6b06396f2a57a12582.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "ea7b2766-986d-4c79-8035-ad62e4294b90",
+    "app_secret": "026958e0-7706-4eb5-b406-995b680d3fe4",
+    "description": null,
+    "display_name": "Group Health - Mobile",
+    "name": "Group-Health-Mobile",
+    "os": "Android",
+    "platform": "Java",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/252/269/original/2fd051021eff2082b15db7e196358f74.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "130fe192-39f2-4982-b114-6a4634f0ba4f",
+    "app_secret": "d22a0d10-d1ac-4931-9361-109a7dfa3a06",
+    "description": null,
+    "display_name": "Slalom - Tetris",
+    "name": "Slalom-Tetris",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/267/388/original/9981b30a82fe3c64e99766ac2fa903d5.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "6c0f07bc-1f24-4204-986f-d86f2f3a82e0",
+    "app_secret": "9fbab3d4-584d-4400-8219-8aacdf720d6a",
+    "description": null,
+    "display_name": "TitleMax - ACV Mobile",
+    "name": "TitleMax-ACV-Mobile",
+    "os": "iOS",
+    "platform": "Unknown",
+    "origin": "hockeyapp",
+    "icon_url": null,
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "c1b83a7d-4e0c-4676-939b-c53f1aa15635",
+    "app_secret": "259500fc-e8a3-43e4-be40-d9266edcfd3f",
+    "description": null,
+    "display_name": "TitleMax - ACV Mobile",
+    "name": "TitleMax-ACV-Mobile-01",
+    "os": "Android",
+    "platform": "Unknown",
+    "origin": "hockeyapp",
+    "icon_url": null,
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "ecf30fbc-45d4-44aa-99fb-9f2ee61732af",
+    "app_secret": "deb3c698-3ce5-495c-aa6e-77d5dc69d337",
+    "description": null,
+    "display_name": "SlalomEverywhere iOS",
+    "name": "SlalomEverywhere-iOS",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/270/969/original/025ec159275c6ef2aa481be53c95561d.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "6d33c3a2-969e-4ba4-8982-2b0c4d3ba91d",
+    "app_secret": "15112cbc-3591-29fb-020b-7b3b87965182",
+    "description": null,
+    "display_name": "Slalom - Bon Voyage",
+    "name": "Slalom-Bon-Voyage",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/276/495/original/81917ea1afecfad2b7e48f59d2d926c3.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "d5c9405f-baaf-49ad-bee4-c67473148cef",
+    "app_secret": "89e8ddc7-1a54-74a3-6d01-6c6269aa1ea6",
+    "description": null,
+    "display_name": "Slalom - Bon Voyage",
+    "name": "Slalom-Bon-Voyage-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/276/496/original/ebdc148ab1e5483eb2f83c4def3ed20d.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "8b011676-816c-4962-8b56-3fff56c0af4c",
+    "app_secret": "1549349b-c52c-46b6-8a87-db81449ccc18",
+    "description": null,
+    "display_name": "Bright Horizons - EdAssist - iOS",
+    "name": "Bright-Horizons-EdAssist-iOS",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/315/761/original/e475ee57e94f2bf599978d5c0fd7cf6b.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "44123e66-d1cf-4d5a-912e-88f3d46254f6",
+    "app_secret": "bfe98dab-632d-40ff-91a2-4c4a16bdffc7",
+    "description": null,
+    "display_name": "Bright Horizons - EdAssist - Droid",
+    "name": "Bright-Horizons-EdAssist-Droid",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/315/762/original/10709c7752d7e5610b0a398d7f9495bc.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "79c9043e-e675-4b76-87b5-f5f7e20fd0ca",
+    "app_secret": "9885d9c9-288d-4ad7-b650-868a98ca728b",
+    "description": null,
+    "display_name": "NY Blood Center - ClinApp",
+    "name": "NY-Blood-Center-ClinApp",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/340/922/original/c7b8dc6604081fd49e3c6d6e89a5a9c8.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "0e59402a-75f9-4c73-958d-cef977d5a992",
+    "app_secret": "fa5b9d8d-d5d1-4818-819f-1b50752cef03",
+    "description": null,
+    "display_name": "Mary Kay - eCatalog - iOS",
+    "name": "Mary-Kay-eCatalog-iOS",
+    "os": "iOS",
+    "platform": "Cordova",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/345/772/original/18bdf7303888497f2a8200f6b989c4b5.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "4dd56737-b4ef-4c8c-ad81-b29f6a6f4b69",
+    "app_secret": "05f72cf9-f22e-4502-a36c-20091e2ae87f",
+    "description": null,
+    "display_name": "Mary Kay - eCatalog - Android",
+    "name": "Mary-Kay-eCatalog-Android",
+    "os": "Android",
+    "platform": "Cordova",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/345/774/original/e616e0bfe65a5e1e9588ad8407b0fe5c.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "708b3a96-2ba3-4d1c-932f-6844d3988a30",
+    "app_secret": "c9c7634b-f0c1-4cc7-a991-65c5d1318d44",
+    "description": null,
+    "display_name": "Slalom Everywhere",
+    "name": "Slalom-Everywhere",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/350/382/original/3dde915c90b1323bba4d1c1846147f98.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "1b3c6b53-e435-4b70-803b-00126b366ddf",
+    "app_secret": "823402e9-c2b3-4c5d-afea-6b2ee8ff566b",
+    "description": null,
+    "display_name": "Slalom - RetreatApp",
+    "name": "Slalom-RetreatApp",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/356/400/original/be6b1568633d612a9bd6559caa1b674e.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "67895571-be3a-4228-a0fc-9bd45cf828fa",
+    "app_secret": "4176f48b-9aa9-4cf1-bffb-a3cce76268e6",
+    "description": null,
+    "display_name": "Slalom - Apres",
+    "name": "Slalom-Apres",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/377/841/original/d8b2cf01b194750f37e13ade84e8f816.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "3ead530c-e2bf-4cc2-8eb5-32db4f8aa695",
+    "app_secret": "423a5f22-e1de-4b79-9b62-89b998f6db8f",
+    "description": null,
+    "display_name": "Slalom - Apres",
+    "name": "Slalom-Apres-01",
+    "os": "Android",
+    "platform": "Java",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/395/298/original/8953a0327fc16ac2055b383e65234c8a.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "91a906f8-4f23-457b-bee5-961adcd0e26e",
+    "app_secret": "209d9af0-0dca-4ea8-9d2f-75ceae40fe54",
+    "description": null,
+    "display_name": "Slalom - Events",
+    "name": "Slalom-Events",
+    "os": "iOS",
+    "platform": "Objective-C-Swift",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/395/912/original/c50ec3b8bd3d227a61624f9e2984dac6.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "e4cb5e20-e60d-4732-8a1b-93e41fc30c4b",
+    "app_secret": "8d332016-7e41-45c8-96ce-e6db9bd7c7fc",
+    "description": null,
+    "display_name": "Slalom - A/R",
+    "name": "Slalom-A-R",
+    "os": "iOS",
+    "platform": "Unity",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/396/317/original/34548bdaa726921a48acd6a40236f460.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "eb67d139-fb2c-4378-b813-e2475909b91a",
+    "app_secret": "1ed52e7f-17fa-47df-8b48-e4ee3a3c9093",
+    "description": null,
+    "display_name": "Slalom - Events",
+    "name": "Slalom-Events-01",
+    "os": "Android",
+    "platform": "Java",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/398/856/original/131179d2adafaa4a0398eeebac58a2b8.png",
+    "owner": {
+      "id": "01ca694f-b6d8-4fd2-a81a-19e6616718ff",
+      "avatar_url": null,
+      "display_name": "Slalom Consulting",
+      "email": "apple_dev_enterprise@slalom.com",
+      "name": "apple_dev_enterprise-ycf6",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "3793a238-9674-4b58-b8bc-58d0e2f0fca5",
+    "app_secret": "f6cfee77-7715-4339-bfaa-e814dd5ffc92",
+    "description": null,
+    "display_name": "DEV - EnerBank",
+    "name": "DEV-EnerBank",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/283/739/original/db4046d7ea708f88b33d620cd153bcc6.png",
+    "owner": {
+      "id": "f01b9e0f-3078-4cf1-8161-2952e605b3ae",
+      "avatar_url": null,
+      "display_name": "EnerBank USA",
+      "email": "mobiledev@enerbankusa.com",
+      "name": "mobiledev-iuzt",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "d86f25dc-4801-4024-a12b-72ef34a45be1",
+    "app_secret": "a10aa850-2df2-4c0b-b2de-b03d9ccf5bcd",
+    "description": null,
+    "display_name": "DEV - EnerBank",
+    "name": "DEV-EnerBank-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/283/745/original/c7288adc3191abdb314f89ee5d98ad83.png",
+    "owner": {
+      "id": "f01b9e0f-3078-4cf1-8161-2952e605b3ae",
+      "avatar_url": null,
+      "display_name": "EnerBank USA",
+      "email": "mobiledev@enerbankusa.com",
+      "name": "mobiledev-iuzt",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "0b4d53e2-d7fe-4df5-a93c-822b26ff50a0",
+    "app_secret": "e141968e-fc9d-45d1-ba80-2cde5fdb8411",
+    "description": null,
+    "display_name": "QA - EnerBank",
+    "name": "QA-EnerBank",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/362/302/original/d1511ec83e4d913b10f52ba21466fb41.png",
+    "owner": {
+      "id": "f01b9e0f-3078-4cf1-8161-2952e605b3ae",
+      "avatar_url": null,
+      "display_name": "EnerBank USA",
+      "email": "mobiledev@enerbankusa.com",
+      "name": "mobiledev-iuzt",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "49b56e44-f586-4e6c-bf61-376127bb1e5e",
+    "app_secret": "ec7ced23-493d-44b9-b557-b77aecd7424a",
+    "description": null,
+    "display_name": "QA - EnerBank",
+    "name": "QA-EnerBank-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/362/303/original/cb395b9e9e4c586afed80ecb22ebbe5a.png",
+    "owner": {
+      "id": "f01b9e0f-3078-4cf1-8161-2952e605b3ae",
+      "avatar_url": null,
+      "display_name": "EnerBank USA",
+      "email": "mobiledev@enerbankusa.com",
+      "name": "mobiledev-iuzt",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "1323044a-92e2-4916-9b57-069cf8df29c4",
+    "app_secret": "ed323c64-b2ba-4127-87f4-557d3af91c13",
+    "description": null,
+    "display_name": "PROD - EnerBank",
+    "name": "PROD-EnerBank",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/374/627/original/a0ad81599a57c825055f86ecc323245c.png",
+    "owner": {
+      "id": "f01b9e0f-3078-4cf1-8161-2952e605b3ae",
+      "avatar_url": null,
+      "display_name": "EnerBank USA",
+      "email": "mobiledev@enerbankusa.com",
+      "name": "mobiledev-iuzt",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "7e1d00c7-7d93-4fdc-a407-006b81a991f5",
+    "app_secret": "f4926c9e-051c-405f-9d77-38e995e1290e",
+    "description": null,
+    "display_name": "PROD - EnerBank",
+    "name": "PROD-EnerBank-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/374/628/original/8831f7f62eab8e5013eac55a17f680ee.png",
+    "owner": {
+      "id": "f01b9e0f-3078-4cf1-8161-2952e605b3ae",
+      "avatar_url": null,
+      "display_name": "EnerBank USA",
+      "email": "mobiledev@enerbankusa.com",
+      "name": "mobiledev-iuzt",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "e9d7f818-9272-47dd-ba79-a33ed93db965",
+    "app_secret": "0c4aa7d8-94f6-4f27-a3e0-38c9226f5b19",
+    "description": null,
+    "display_name": "STORE - EnerBank",
+    "name": "STORE-EnerBank",
+    "os": "iOS",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/378/642/original/580f3c9a316efeba410c5d41336bc961.png",
+    "owner": {
+      "id": "f01b9e0f-3078-4cf1-8161-2952e605b3ae",
+      "avatar_url": null,
+      "display_name": "EnerBank USA",
+      "email": "mobiledev@enerbankusa.com",
+      "name": "mobiledev-iuzt",
+      "type": "org"
+    },
+    "azure_subscription": null
+  },
+  {
+    "id": "b7492e0a-f771-4eaa-be1f-ad620a8d57e4",
+    "app_secret": "540373b9-2a5b-44fd-b612-5522d7a203af",
+    "description": null,
+    "display_name": "STORE - EnerBank",
+    "name": "STORE-EnerBank-01",
+    "os": "Android",
+    "platform": "Xamarin",
+    "origin": "hockeyapp",
+    "icon_url": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/378/643/original/e1590119901a7ecf575707301404b20b.png",
+    "owner": {
+      "id": "f01b9e0f-3078-4cf1-8161-2952e605b3ae",
+      "avatar_url": null,
+      "display_name": "EnerBank USA",
+      "email": "mobiledev@enerbankusa.com",
+      "name": "mobiledev-iuzt",
+      "type": "org"
+    },
+    "azure_subscription": null
+  }
+]

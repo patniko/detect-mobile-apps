@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="AppCenter" xml:space="preserve">
+    <value>HockeyApp</value>
+    <comment>HockeyApp Label or Placeholder Text</comment>
+  </data>
+	<data name="SignInLabel" xml:space="preserve">
+    <value>Sign In</value>
+    <comment>Sign In Label or Placeholder Text</comment>
+  </data>
+	<data name="VisualStudio" xml:space="preserve">
+    <value>Visual Studio</value>
+    <comment>Text for Visual Studio</comment>
+  </data>
+	<data name="LoginFailedLabel" xml:space="preserve">
+    <value>Login Failed</value>
+    <comment>Login Failed Label or Placeholder Text</comment>
+  </data>
+	<data name="LoginFailedMessageLabel" xml:space="preserve">
+    <value>Please check your login and try again.</value>
+    <comment>Message for Login Failed.</comment>
+  </data>
+	<data name="OkLabel" xml:space="preserve">
+    <value>OK</value>
+    <comment>OK Label or Placeholder Text.</comment>
+  </data>
+	<data name="CancelLabel" xml:space="preserve">
+    <value>Cancel</value>
+    <comment>Cancel Label or Placeholder Text.</comment>
+  </data>
+	<data name="LoginErrorLabel" xml:space="preserve">
+    <value>Login Error</value>
+    <comment>Login Error Label or Placeholder Text.</comment>
+  </data>
+	<data name="InvalidUsernameLabel" xml:space="preserve">
+    <value>Invalid Username</value>
+    <comment>Login Error Label or Placeholder Text.</comment>
+  </data>
+	<data name="InvalidPasswordLabel" xml:space="preserve">
+    <value>Invalid Password</value>
+    <comment>Invalid Password Label or Placeholder Text.</comment>
+  </data>
+	<data name="GeneralErrorLabel" xml:space="preserve">
+    <value>Operation Failed</value>
+    <comment>Error Label or Placeholder Text</comment>
+  </data>
+	<data name="GeneralErrorMessageLabel" xml:space="preserve">
+    <value>An error has occurred. Please try again.</value>
+    <comment>Message for Generic Error</comment>
+  </data>
+	<data name="UnauthorizedLabel" xml:space="preserve">
+    <value>Unauthorized</value>
+    <comment>Unauthorized Label or Placeholder Text</comment>
+  </data>
+	<data name="UnauthorizedMessageLabel" xml:space="preserve">
+    <value>Your session has expired. Please login and try again.</value>
+    <comment>Message for Unauthorized Error</comment>
+  </data>
+	<data name="LatestLabel" xml:space="preserve">
+    <value>Latest</value>
+    <comment>Latest Label or Placeholder Text</comment>
+  </data>
+	<data name="HistoryLabel" xml:space="preserve">
+    <value>History</value>
+    <comment>History Label or Placeholder Text</comment>
+  </data>
+	<data name="ReleaseLabel" xml:space="preserve">
+    <value>Release</value>
+    <comment>Release Label or Placeholder Text</comment>
+  </data>
+	<data name="ReleaseNotesLabel" xml:space="preserve">
+    <value>Release Notes</value>
+    <comment>Release Notes Label or Placeholder Text</comment>
+  </data>
+	<data name="PickAnOrgMessageLabel" xml:space="preserve">
+    <value>Pick An Org</value>
+    <comment>Pick An Org Label or Placeholder Text.</comment>
+  </data>
+	<data name="AllMyAppsLabel" xml:space="preserve">
+    <value>All My Apps</value>
+    <comment>All My Apps Label or Placeholder Text.</comment>
+  </data>
+	<data name="DoneLabel" xml:space="preserve">
+    <value>Done</value>
+    <comment>Label for the Completed Button Text</comment>
+  </data>
+	<data name="InstallLabel" xml:space="preserve">
+    <value>Install</value>
+    <comment>Label for the Install Button Text</comment>
+  </data>
+	<data name="SearchByAppNameLabel" xml:space="preserve">
+    <value>Search Apps</value>
+    <comment>Placeholder text for the Dashboard Search Bar</comment>
+  </data>
+	<data name="NoAppsFoundLabel" xml:space="preserve">
+    <value>We couldn't find that app</value>
+    <comment>No apps found message</comment>
+  </data>
+	<data name="NoAppsAvailableLabel" xml:space="preserve">
+    <value>Apps available for testing will appear here</value>
+    <comment>No apps available message</comment>
+  </data>
+	<data name="SearchReleasesLabel" xml:space="preserve">
+    <value>Search Releases</value>
+    <comment>Placeholder text for Releases Search Bar</comment>
+  </data>
+	<data name="DowngradeNotAllowedLabel" xml:space="preserve">
+    <value>Your app could not be installed because a newer version was detected. Please uninstall and try again.</value>
+    <comment>Message for Downgrade Failed</comment>
+  </data>
+	<data name="InstallingLabel" xml:space="preserve">
+    <value>Installing</value>
+    <comment>Message for Installation Text</comment>
+  </data>
+	<data name="InstallingLabel2" xml:space="preserve">
+    <value>Installing.</value>
+    <comment>Message for Installation Progress Text</comment>
+  </data>
+	<data name="InstallingLabel3" xml:space="preserve">
+    <value>Installing..</value>
+    <comment>Message for Installation Progress Text</comment>
+  </data>
+	<data name="InstallingLabel4" xml:space="preserve">
+    <value>Installing...</value>
+    <comment>Message for Installation Progress Text</comment>
+  </data>
+	<data name="CustomUriScheme" xml:space="preserve">
+    <value>ms-actesterapp</value>
+    <comment>Custom uri scheme for the application</comment>
+  </data>
+	<data name="DeviceInfoLabel" xml:space="preserve">
+    <value>Device Info</value>
+    <comment>Device Info text</comment>
+  </data>
+	<data name="ModelLabel" xml:space="preserve">
+    <value>Model</value>
+    <comment>Model text</comment>
+  </data>
+	<data name="VersionLabel" xml:space="preserve">
+    <value>Version</value>
+    <comment>Version text</comment>
+  </data>
+	<data name="PhoneIdLabel" xml:space="preserve">
+    <value>Id</value>
+    <comment>The Phone Id text</comment>
+  </data>
+	<data name="RegisterDevicelLabel" xml:space="preserve">
+    <value>Register Device</value>
+    <comment>Register Device text</comment>
+  </data>
+	<data name="RegisterDeviceMessage" xml:space="preserve">
+    <value>This device needs to be registered to be trusted and receive Apple ID verification codes.</value>
+    <comment>Model text</comment>
+  </data>
+	<data name="SignOutLabel" xml:space="preserve">
+    <value>Sign Out</value>
+    <comment>Sign Out Label or Placeholder Text</comment>
+  </data>
+	<data name="NetworkErrorLabel" xml:space="preserve">
+    <value>Network Error</value>
+    <comment>Network Error Label</comment>
+  </data>
+	<data name="NetworkErrorMessageLabel" xml:space="preserve">
+    <value>A network error occurred. Please try again.</value>
+    <comment>Message for Network Error</comment>
+  </data>
+	<data name="PlatformLabel" xml:space="preserve">
+    <value>Platform</value>
+    <comment>Select PlatformLabel or Placeholder Text</comment>
+  </data>
+	<data name="OrgsLabel" xml:space="preserve">
+    <value>Orgs</value>
+    <comment>Filter Orgs Label or Placeholder Text</comment>
+  </data>
+	<data name="PlatformSelectionMessage" xml:space="preserve">
+    <value>Show me Apps for</value>
+    <comment>Platform Selection Message</comment>
+  </data>
+	<data name="RefreshLabel" xml:space="preserve">
+    <value>Refresh</value>
+    <comment>Refresh Label or Placeholder Text</comment>
+  </data>
+	<data name="EditProfileButton" xml:space="preserve">
+    <value>Edit Profile</value>
+    <comment>Edit Profile Button Text</comment>
+  </data>
+	<data name="ReRegisterDeviceLabel" xml:space="preserve">
+    <value>Re-Register Device</value>
+    <comment>Re-Register Device Label or Placeholder Text</comment>
+  </data>
+	<data name="AboutLabel" xml:space="preserve">
+    <value>About</value>
+    <comment>About text</comment>
+  </data>
+	<data name="AppVersionLabel" xml:space="preserve">
+    <value>App Version</value>
+    <comment>App Version text</comment>
+  </data>
+	<data name="AccountSignUpLabel" xml:space="preserve">
+    <value>Don't have an account? Sign up!</value>
+    <comment>Account sign up text</comment>
+  </data>
+	<data name="ForgotPasswordLabel" xml:space="preserve">
+    <value>Forgot ID or Password?</value>
+    <comment>Forgot Password text</comment>
+  </data>
+	<data name="DetailsLabel" xml:space="preserve">
+    <value>Details</value>
+    <comment>Details label or placeholder text</comment>
+  </data>
+	<data name="AppDetailsLabel" xml:space="preserve">
+    <value>App Details</value>
+    <comment>App Details text</comment>
+  </data>
+	<data name="EmailLabel" xml:space="preserve">
+    <value>Email</value>
+    <comment>Label and placeholder text for Email</comment>
+  </data>
+	<data name="PasswordLabel" xml:space="preserve">
+    <value>Password</value>
+    <comment>Label and placeholder text for Password</comment>
+  </data>
+	<data name="FeedbackCommentsSectionQuestionLabel" xml:space="preserve">
+    <value>What can we do to improve?</value>
+    <comment>Feedback question label text</comment>
+  </data>
+	<data name="FeedbackHeaderLabel" xml:space="preserve">
+    <value>Show HockeyApp some love?</value>
+    <comment>Large feedback header text</comment>
+  </data>
+	<data name="FeedbackNotLikelyLabel" xml:space="preserve">
+    <value>1 (Not likely)</value>
+    <comment>Not likely low rating text</comment>
+  </data>
+	<data name="FeedbackSubHeaderQuestionLabel" xml:space="preserve">
+    <value>How likely are you to recommend this app to your colleagues?</value>
+    <comment>Feedback Sub header question text</comment>
+  </data>
+	<data name="FeedbackVeryLikelyLabel" xml:space="preserve">
+    <value>10 (Very likely)</value>
+    <comment>Very likely high rating text</comment>
+  </data>
+	<data name="NextButton" xml:space="preserve">
+    <value>Next</value>
+    <comment>Next button text</comment>
+  </data>
+	<data name="SubmitFeedbackButton" xml:space="preserve">
+    <value>Submit</value>
+    <comment>Submit feedback button text</comment>
+  </data>
+	<data name="FeedbackThankYouLabel" xml:space="preserve">
+    <value>Thanks!</value>
+    <comment>Feedback thank you label text</comment>
+  </data>
+	<data name="AllApps" xml:space="preserve">
+    <value>**ALL**</value>
+    <comment>Value for displaying all apps</comment>
+  </data>
+	<data name="MyApps" xml:space="preserve">
+    <value>My Apps</value>
+    <comment>Default Dashboard title text</comment>
+  </data>
+	<data name="Android" xml:space="preserve">
+    <value>Android</value>
+    <comment>Value for Android platform</comment>
+  </data>
+	<data name="iOS" xml:space="preserve">
+    <value>iOS</value>
+    <comment>Value for iOS platform</comment>
+  </data>
+	<data name="Windows" xml:space="preserve">
+    <value>Windows</value>
+    <comment>Value for Windows platform</comment>
+  </data>
+	<data name="FeedbackThankYouSubLabel" xml:space="preserve">
+    <value>You're cool!</value>
+    <comment>Feedback thank you label sub text</comment>
+  </data>
+	<data name="NoReleasesFoundLabel" xml:space="preserve">
+    <value>Sorry, but we couldn't find a release for your device.</value>
+    <comment>Text for indicating an app has no releases</comment>
+  </data>
+	<data name="PrivacyPolicyLabel" xml:space="preserve">
+    <value>Privacy Policy</value>
+    <comment>Privacy Policy</comment>
+  </data>
+	<data name="LegalTermsLabel" xml:space="preserve">
+    <value>Legal Terms</value>
+    <comment>Legal Terms</comment>
+  </data>
+	<data name="PrivacyPolicyUrl" xml:space="preserve">
+    <value>https://aka.ms/mobilecenterprivacy</value>
+    <comment>Privacy Policy URL</comment>
+  </data>
+	<data name="TermsAndConditionsUrl" xml:space="preserve">
+    <value>https://azure.microsoft.com/en-us/support/legal/</value>
+    <comment>Terms and Conditions Legal URL</comment>
+  </data>
+	<data name="LegalTermsLabel" xml:space="preserve">
+    <value>Legal Terms</value>
+    <comment>Legal Terms</comment>
+  </data>
+	<data name="PrivacyPolicyLabel" xml:space="preserve">
+    <value>Privacy Policy</value>
+    <comment>Privacy Policy</comment>
+  </data>
+	<data name="NoReleasesFilteredFoundLabel" xml:space="preserve">
+    <value>We couldn't find that release</value>
+    <comment>No release found message</comment>
+  </data>
+	<data name="ReportAnIssueLabel" xml:space="preserve">
+    <value>Report an Issue</value>
+    <comment>Report an Issue</comment>
+  </data>
+</root>
