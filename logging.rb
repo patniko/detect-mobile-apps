@@ -3,7 +3,7 @@ require 'logger'
 module Logging
   class MultiDelegator
     def initialize(*targets)
-      @targets = targets
+      @targets = targets asdfd
     end
 
     def self.delegate(*methods)
