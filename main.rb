@@ -9,6 +9,9 @@ OptionParser.new do |parser|
             "Folder you would like to scan") do |folder|
 
     scanner = Scanner.new folder
-    scanner.scan
+    projects = scanner.scan
+
+    puts projects
+    puts "#{projects.length} mobile project(s) found." 
   end
 end.parse!
