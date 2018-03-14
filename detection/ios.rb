@@ -14,8 +14,8 @@ class IOS
     logger.debug "#{project_files.length} XCode project(s) found"
 
     project_files.each do |project_file|
-      project = self.analyze project_file
-      mobile.push(*project)
+      projects = self.analyze project_file
+      mobile.push(*projects)
     end
 
     return mobile

@@ -3,13 +3,15 @@ require 'json'
 require_relative 'logging'
 require_relative 'detection/ios'
 require_relative 'detection/android'
+require_relative 'detection/reactnative'
+require_relative 'detection/xamarin'
 
 class Scanner
   include Logging
 
   def initialize(path)
     @path = path
-    @scanners = [IOS, Android]
+    @scanners = [IOS, Android, ReactNative, Xamarin]
   end
 
   def scan

@@ -1,45 +1,29 @@
-Setup
+## Setup
 
-`gem install json`
+```
+gem install json
+gem install nokogiri
+gem install xcodeproj
+```
 
-Detection
+## Detection
+Checks for iOS, Android, React Native and Xamarin projects.
 
-React Native
-	1. Locate package.json
-		a. Find usage of react-native.
-		b. Determine if ejected or unejected RN app
-		c. Locate expo (.expo folder?)
+### iOS Swift/Objective-C
+1. Must have .xcodeproj
+2. Must have a build configuration
+3. Must have info.plist file
+4. Must contain bundle identifier in info.plist file
 
-iOS Swift/Objective-C
-	1. Locate .xcodeproj
+### Android
+1. Must have AndroidManifest.xml
+2. Must have a package name in the manifest
 
-Android Java/Kotlin
-	1. Locate AndroidManifest.xml
-	<manifest xmlns:android="http://schemas.android.com/apk/res/android" ... >
-	    <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="15" />
-	    ...
-	</manifest>
+### React Native
+1. Must have a packave.json file
+2. Must include react-native as a core dependency
 
-
-Xamarin
-	1. 
-
-
-
-Will the add repo option to filter mobile
-Ruby file run by Dennis -
-Can we get information passed over to us regarding detection
-Is there an easy way for people to get back to App Center from Github
-
-
-
-main
--> processor.run();
-    -> react native
-       -> scan()
-    -> ios
-       -> scan()
-    -> android
-       -> scan()
-    -> xamarin
-       -> scan()
+### Xamarin
+1. Must have a *.csproj, *.fsproj or *.sln file
+2. Must contain `{EFBA0AD7-5A72-4C68-AF49-83D382785DCF}` for Android projects
+2. Must contain `{FEACFBD2-3405-455C-9665-78FE426C6842}` for iOS projects

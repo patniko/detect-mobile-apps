@@ -20,6 +20,7 @@ class Android
     manifests.each do |manifest_path|
       logger.debug "Processing #{manifest_path}"
 
+      # Must have a package name in the manifest
       manifest = Nokogiri::XML File.open manifest_path
       package_name = manifest.at_xpath("//manifest/@package")
       logger.debug "Package name: #{package_name}"
