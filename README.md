@@ -20,7 +20,7 @@ Checks for iOS, Android, React Native and Xamarin projects.
 2. Must have a package name in the manifest
 
 ### React Native
-1. Must have a packave.json file
+1. Must have a package.json file
 2. Must include react-native as a core dependency
 
 ### Xamarin
