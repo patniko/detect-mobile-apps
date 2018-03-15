@@ -8,12 +8,6 @@ class Android
   def self.scan(path)
     # Every project must have an Android manifest
     manifests = Dir.glob("#{path}/**/AndroidManifest.xml")
-
-    # Filter out nonsense
-    manifests = manifests.select do |manifest|
-      !manifest.include? "build/intermediates"
-    end
-
     logger.debug "#{manifests.length} Android manifests found"
 
     results = []
